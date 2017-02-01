@@ -1,0 +1,12 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil"  
+        xmlns:p="http://www.evolus.vn/Namespace/Pencil"  
+        xmlns:svg="http://www.w3.org/2000/svg"  
+        xmlns:xlink="http://www.w3.org/1999/xlink"  
+  
+        id="thegillis_basic"  
+        displayName="TheGillis Basic Widgets"  
+        description="Standard components for most pages"  
+        author="Brian Gillis"
+        url="Optional URL to its web page">  
+          
+</Shapes>
